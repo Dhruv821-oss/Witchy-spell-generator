@@ -50,4 +50,4 @@ Can be extended for more personalized experiences, like mood-based spell generat
 <img width="1798" height="740" alt="Screenshot 2025-08-16 213829" src="https://github.com/user-attachments/assets/fcedab80-f4d3-4d48-8b24-9938516b3ec0" />
 <img width="1886" height="907" alt="Screenshot 2025-08-16 213813" src="https://github.com/user-attachments/assets/39d52e7b-18c3-4c8b-b649-c08151e0c269" />
 
-
+https://witchcraft.streamlit.app/
